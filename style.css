@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@608&family=Poppins:ital,wght@0,200;0,400;0,500;0,600;1,100;1,400;1,700&family=Red+Rose:wght@400;500;600&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+header{
+    display: flex;
+    background: transparent;
+    height: 50px;
+    width: 1500px;
+    margin-top: 40px;
+}
+
+.logo{
+    display: flex;
+    background: transparent;
+    width: 167px;
+    height: 50px;
+}
+
+.logo img{
+   margin-top: 0px;
+   margin-left: 70px;
+   height: 50px;
+   width: 150px;
+}
+
+nav{
+    display: flex;
+    background: transparent;
+    height: 50px;
+    width: 600px;
+    margin-left: 100px;
+}
+ul{
+    display: flex;
+    margin-top: 14px;
+    text-decoration: none;
+}
+
+.first{
+    margin-left: 20px;
+}
+
+li{
+    margin-right: 35px;
+    list-style: none;
+    font-weight: 500;
+}
+
+.button-right-side{
+    height: 50px;
+    width: 120px;
+    background: transparent;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-left: 480px;
+}
+
+.btn1{
+    height: 40px;
+    width: 120px;
+    margin: 5px;
+    border-radius: 12px;
+    background: #5955b3;
+    border:  2px solid #5955b3;
+    color: white;
+    font-weight: 600;
+}
+
+.main{
+    display: flex;
+    margin-top: 25px;
+    background: transparent;
+    width: 1500px;
+    height: 616px;
+    color: white;
+}
+.text-area{
+    color: black;
+    background: transparent;
+    height: 610px;
+    width: 50%;
+}
+.image-area{
+    background: transparent;
+    height: 610px;
+    width: 50%;
+    margin-right: 47px;
+}
+
+.image-area img{
+    height: 620px;
+    width: 100%;
+}
+.heading{
+    margin-top: 100px;
+    margin-left: 100px;
+     font-size: 50px;
+    font-weight: bolder;
+    color: #3c2e60;
+}
+span{
+    color: #3c2e60;
+}
+.Crush{
+    color: #5955b3;
+}
+.paragraph{
+    margin-left: 100px;
+    margin-top: 15px;
+    color: #9a9a9a;
+}
+p{
+    color: #9a9a9a;
+    font-size: 16px;
+}
+.heading, .paragraph, .btn-button{
+    color: #000;
+   
+}
+
+.btn-2{
+    height: 40px;
+    width: 120px;
+    margin: 5px;
+    border-radius: 12px;
+    background: #5955b3;
+    border:  2px solid #5955b3;
+    color: white;
+    font-weight: 600;
+    margin-top: 60px;
+    margin-left: 100px;
+}
